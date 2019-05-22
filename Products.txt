@@ -1,0 +1,4 @@
+mintcrisp,2.0,97
+mars,2.55,999
+newbarr10,1.4,1000
+twirl,1.0,997
